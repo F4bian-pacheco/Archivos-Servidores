@@ -1,0 +1,10 @@
+$TTL 86400
+@		IN      SOA     	valhalla.teillier.cl.       root.valhalla.teillier.cl. (
+                        2014021000 ; serial
+                        2H ; refresh
+                        1H ; retry
+                        1W ; expire
+                        1D ; default_ttl
+                        )
+                        NS    valhalla.teillier.cl.
+140             IN      PTR     valhalla.teillier.cl.
